@@ -13,7 +13,7 @@ interface Props {
   onToggleSound: () => void;
 }
 
-const TARGETS = [33, 99, 100];
+const TARGETS = [33, 99, 100, 500, 1000];
 const R = 88;
 const C = 2 * Math.PI * R;
 
